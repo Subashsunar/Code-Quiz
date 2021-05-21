@@ -13,7 +13,8 @@ I used only HTML,CSS, and JavaScript for this app. Some **highlights** of the ap
 * ES6 Features - const, let, template literal, and Arrow function
 * Featch Database API
 
-## Here is demo quiz screen:
+## Here is demo quiz screen and final screen:
 
 ![demo-question](images/demo-question.PNG)
 
+![final-screen](images/final-screen.PNG)
