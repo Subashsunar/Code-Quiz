@@ -7,18 +7,14 @@
 
 /* Selecting the container or parent component of teh page */
 .container {
-  width: 100vw;
-  height: 100vh;
+  width: 600px;
+  height: 600px;
   display: flex;
   justify-content: center;
   align-items: center;
   max-width: 80rem;
   margin: 0 auto;
   padding: 2rem;
-}
-
-.container > * {
-  width: 100%;
 }
 
 .flex-column {
@@ -59,6 +55,19 @@ h2 {
   font-weight: 700;
 }
 
+.paragraph p {
+  text-align: center;
+  text-decoration: none;
+  padding-bottom: 16px;
+  align-items: center;
+  font-size: 22px;
+  padding: 16px 0;
+  color: #fbab7e;
+}
+
+.paragraph p:hover {
+  color: skyblue;
+}
 .btn {
   font-size: 22px;
   padding: 16px 0;
@@ -99,6 +108,7 @@ h2 {
 
 /* Styling for main.html screen */
 .choice-container {
+  margin-right: 250px;
   display: flex;
   margin-bottom: 8px;
   width: 750px;
