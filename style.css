@@ -58,8 +58,9 @@ h2 {
   margin-bottom: 16px;
   font-weight: 700;
 }
+
 .btn {
-  font-size: 1.8rem;
+  font-size: 22px;
   padding: 16px 0;
   width: 20rem;
   text-align: center;
@@ -74,8 +75,7 @@ h2 {
   cursor: pointer;
   color: skyblue;
   box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-  transform: translateY(-0.16px);
-  transition: 150ms;
+  transform: translateY(-0.1rem);
 }
 
 .btn[disabled]:hover {
@@ -90,13 +90,14 @@ h2 {
 
 .justify-center {
   justify-content: center;
-  margin-left: 420px;
+  margin-left: 300px;
 }
 
 .text-center {
   text-align: center;
 }
 
+/* Styling for main.html screen */
 .choice-container {
   display: flex;
   margin-bottom: 8px;
@@ -132,7 +133,7 @@ h2 {
   display: flex;
   justify-content: space-between;
   width: 750px;
-  margin-top: 100px;
+  margin-top: 50px;
 }
 
 .hud-prefix {
@@ -143,4 +144,30 @@ h2 {
 
 .hud-main-text {
   text-align: center;
+}
+
+/* Styling for final screen's elements */
+form {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input {
+  background-color: rgb(207, 150, 84);
+  border-radius: 75px 0;
+  text-align: center;
+  text-decoration: none;
+  width: 20rem;
+  align-items: center;
+  font-size: 22px;
+  padding: 16px 0;
+  margin-left: 5px;
+  margin-bottom: 16px;
+  color: #64630b;
+}
+
+form .text:hover {
+  box-shadow: 0 0.1rem 1.4rem 0 rgba(18, 165, 238, 0.5);
 }
