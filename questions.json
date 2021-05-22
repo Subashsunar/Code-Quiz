@@ -1,0 +1,84 @@
+[{
+    "question": "Which of the following is not JavaScript Data Types?",
+    "choice1": "Undefined",
+    "choice2": "Number",
+    "choice3": "Boolean",
+    "choice4": "Float",
+    "answer": 4
+},
+{
+    "question":
+        "Which company developed JavaScript?",
+    "choice1": "Netscape",
+    "choice2": "Bell Labs",
+    "choice3": "Sun Microsystems",
+    "choice4": " IBM",
+    "answer": 1
+},
+{
+    "question": "How do you write 'Hello World' in an alert box?",
+    "choice1": "msgBox('Hello World');",
+    "choice2": "alertBox('Hello World');",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 4
+},
+{
+    "question": "Inside which HTML element do we put the JavaScript?",
+    "choice1": "<script>",
+    "choice2": "<javascript>",
+    "choice3": "<js>",
+    "choice4": "<scripting>",
+    "answer": 1
+},
+{
+    "question":
+    "Which of the following is correct about features of JavaScript",
+    "choice1": " It can not Handling dates and time.",
+    "choice2": "JavaScript is a object-based scripting language.",
+    "choice3": "JavaScript is not interpreter based scripting language.",
+    "choice4": "All of the above",
+    "answer": 2
+},
+{
+    "question": "Choose the correct JavaScript syntax to change the content of the following HTML code.",
+    "choice1": "document.getElement ('letsfindcourse').innerHTML = 'I am a letsfindcourse;'",
+    "choice2": "document.getElementById ('letsfindcourse').innerHTML = 'I am a letsfindcourse;'",
+    "choice3": "msg('Hello World');",
+    "choice4": "alert('Hello World');",
+    "answer": 2
+},
+{
+    "question": "Which of the following is the correct syntax to display 'Letsfindcourse' in an alert box using JavaScript?",
+    "choice1": "alert('Letsfindcourse');",
+    "choice2": "confirm('Letsfindcourse');",
+    "choice3": "msgbox('Letsfindcourse');",
+    "choice4": "<scripting>",
+    "answer": 1
+},
+{
+    "question":
+        "What is the correct syntax for referring to an external script called 'LFC.js'?",
+    "choice1": "<script src='LFC.js'>",
+    "choice2": "<script name='xxx.js'>",
+    "choice3": "<script source='LFC.js'>",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 1
+},
+{
+    "question": "Which of the following is not Javascript frameworks or libraries?",
+    "choice1": "jQuery",
+    "choice2": "Cassandra",
+    "choice3": "Meteor",
+    "choice4": "Python",
+    "answer": 2
+},
+{
+    "question": "What is the original name of JavaScript?",
+    "choice1": "EScript",
+    "choice2": " Mocha",
+    "choice3": "JavaScript",
+    "choice4": "LiveScript",
+    "answer": 2
+}
+]
