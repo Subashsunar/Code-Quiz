@@ -184,10 +184,6 @@ form .text:hover {
   box-shadow: 0 0.1rem 1.4rem 0 rgba(18, 165, 238, 0.5);
 }
 
-.container {
-  width: 100%;
-}
-
 @media (min-width: 600px) {
   .container {
     width: 50%;

@@ -7,8 +7,7 @@
     "answer": 4
 },
 {
-    "question":
-        "Which company developed JavaScript?",
+    "question": "Which company developed JavaScript?",
     "choice1": "Netscape",
     "choice2": "Bell Labs",
     "choice3": "Sun Microsystems",
@@ -32,8 +31,7 @@
     "answer": 1
 },
 {
-    "question":
-    "Which of the following is correct about features of JavaScript",
+    "question": "Which of the following is correct about features of JavaScript",
     "choice1": " It can not Handling dates and time.",
     "choice2": "JavaScript is a object-based scripting language.",
     "choice3": "JavaScript is not interpreter based scripting language.",
@@ -57,8 +55,7 @@
     "answer": 1
 },
 {
-    "question":
-        "What is the correct syntax for referring to an external script called 'LFC.js'?",
+    "question": "What is the correct syntax for referring to an external script called 'LFC.js'?",
     "choice1": "<script src='LFC.js'>",
     "choice2": "<script name='xxx.js'>",
     "choice3": "<script source='LFC.js'>",
